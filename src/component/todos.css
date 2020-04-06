@@ -1,0 +1,47 @@
+.tabs-view{
+    text-align: left;
+    margin: auto;
+}
+
+.createUser {
+    
+}
+
+.table-data{
+    margin-top: 20px;
+}
+.createUser .ant-btn {
+    float: left;
+    font-weight: 400;
+    margin-bottom: 14px;
+
+}
+
+.ant-modal-title{
+    text-align: center;
+    font-size: 23px;
+    font-family: initial;
+    color: black;
+}
+
+.input-user {
+    color: black;
+    font-family: initial;
+}
+.error-message{
+    color:red;
+}
+
+.input-field{
+    margin-bottom: 14px;
+}
+.ant-spin .ant-spin-spinning .ant-spin-show-text{
+    left: 200px;
+}
+/* .ant-spin{
+    
+} */
+.user-detail .loader {
+    text-align: center;
+    margin-left: 200px;
+}
